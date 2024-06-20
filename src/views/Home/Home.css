@@ -1,0 +1,14 @@
+.heading{
+   justify-content: center;
+   text-align: center;
+}
+.blogs-container{
+   margin: 50px auto;
+   width: 900px;
+   border-radius: 10px;
+   display: flex; 
+   box-shadow: 0 0 10px 0px #000;
+   flex-wrap: wrap;
+   background-color: #fff;
+ 
+}
